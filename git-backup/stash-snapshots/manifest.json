@@ -1,0 +1,83 @@
+{
+  "source_snapshots": [
+    {
+      "source_blob": "f2a818b3d448a2d772ad26ab7bee6102f6c424d7",
+      "source_path": "Package.resolved",
+      "snapshot_ref": "stash@{0}",
+      "destination": "git-backup/stash-snapshots/v000-f2a818b3d4/Package.resolved",
+      "sha256": "5bbf383d4b642b5eae0f7c9d082ae6975c5c0d1898ac09d7017e110be6d4164b"
+    },
+    {
+      "source_blob": "5f140b716f62972fc8d44d577abee9be64f34a17",
+      "source_path": "Package.swift",
+      "snapshot_ref": "stash@{0}",
+      "destination": "git-backup/stash-snapshots/v001-5f140b716f/Package.swift",
+      "sha256": "315387e843bd5c5815f0f3502bf35964f8084186f6619748a2907d04661e5d72"
+    },
+    {
+      "source_blob": "e4f3ba0f2fd6475dea7c89f464b4428964b614e9",
+      "source_path": "Sources/CodexBar/ProviderBrandIcon.swift",
+      "snapshot_ref": "stash@{0}",
+      "destination": "git-backup/stash-snapshots/v002-e4f3ba0f2f/Sources/CodexBar/ProviderBrandIcon.swift",
+      "sha256": "d4e6d1b041d3d5a04a1c5057876dd874f713aa7e42a25aab3e5fbbb8560fe33c"
+    },
+    {
+      "source_blob": "1373126fbdd6437e8ea78d4fcc1fa8d4f2451535",
+      "source_path": "Sources/CodexBar/StatusItemController+Animation.swift",
+      "snapshot_ref": "stash@{0}",
+      "destination": "git-backup/stash-snapshots/v003-1373126fbd/Sources/CodexBar/StatusItemController+Animation.swift",
+      "sha256": "1fc6bfc360af10152c98e32efc631bcbea13d220a06e4a2abd4f91eab535867c"
+    },
+    {
+      "source_blob": "af6f90b38206a3a16e39592d2e25c69f4cb3e270",
+      "source_path": "Sources/CodexBar/StatusItemController+Menu.swift",
+      "snapshot_ref": "stash@{0}",
+      "destination": "git-backup/stash-snapshots/v004-af6f90b382/Sources/CodexBar/StatusItemController+Menu.swift",
+      "sha256": "ccc9ba61a4c8a320af54ff85e5fe40fa5464b7dbcc56d2bce8d152ea5a978596"
+    },
+    {
+      "source_blob": "bc9ed110d0bfa487c6f39ebc156104b433451195",
+      "source_path": "Sources/CodexBar/UsageStore.swift",
+      "snapshot_ref": "stash@{0}",
+      "destination": "git-backup/stash-snapshots/v005-bc9ed110d0/Sources/CodexBar/UsageStore.swift",
+      "sha256": "60f2ab4b436e7a38cbc6534abdedea9beaec59967fdba6413b97deb57beb7fbc"
+    },
+    {
+      "source_blob": "711690e76c9c6ad52ad613e781db8c67dce4c13e",
+      "source_path": "Sources/CodexBarCore/OpenAIWeb/OpenAIDashboardFetcher.swift",
+      "snapshot_ref": "stash@{0}",
+      "destination": "git-backup/stash-snapshots/v006-711690e76c/Sources/CodexBarCore/OpenAIWeb/OpenAIDashboardFetcher.swift",
+      "sha256": "9a1663cc32d9f7f71ebc2ea70c50eebb30a6f2d6da86bb163d3bcf70d950fb00"
+    },
+    {
+      "source_blob": "be67a0895717e30b896ec4a469c6b32c0cb9011d",
+      "source_path": "Sources/CodexBarCore/OpenAIWeb/OpenAIDashboardWebViewCache.swift",
+      "snapshot_ref": "stash@{0}",
+      "destination": "git-backup/stash-snapshots/v007-be67a08957/Sources/CodexBarCore/OpenAIWeb/OpenAIDashboardWebViewCache.swift",
+      "sha256": "2d8984ba896de39545cd70d5413b4ba7a16068dec37019e7219827301cb8ba4e"
+    },
+    {
+      "source_blob": "1e4892a172684a208fdae2932ba61ef6601ef0ff",
+      "source_path": "Sources/CodexBarCore/OpenAIWeb/OpenAIDashboardWebsiteDataStore.swift",
+      "snapshot_ref": "stash@{0}",
+      "destination": "git-backup/stash-snapshots/v008-1e4892a172/Sources/CodexBarCore/OpenAIWeb/OpenAIDashboardWebsiteDataStore.swift",
+      "sha256": "6e609f0c64ccbb069537e32b1d904e3aaf9c933c7f6d3b058cba8e4bc0293396"
+    },
+    {
+      "source_blob": "cf48d883c8cb9fbc77f47a5814bf3cb4f39b6278",
+      "source_path": "Sources/CodexBarCore/Providers/ProviderFetchPlan.swift",
+      "snapshot_ref": "stash@{0}",
+      "destination": "git-backup/stash-snapshots/v009-cf48d883c8/Sources/CodexBarCore/Providers/ProviderFetchPlan.swift",
+      "sha256": "715d8709ed1a59329ccaacd1b2bb56bf02ca5966a536b1053bde07004dd4ca54"
+    },
+    {
+      "source_blob": "a9dd14319b03d9f9c560a9b46d8c6906c3006e64",
+      "source_path": "Sources/CodexBar/StatusItemController+Menu.swift",
+      "snapshot_ref": "stash@{1}",
+      "destination": "git-backup/stash-snapshots/v010-a9dd14319b/Sources/CodexBar/StatusItemController+Menu.swift",
+      "sha256": "b1bded4d02cf2c36faefe51a145fda094534771d81b459326b087f003f6522af"
+    }
+  ],
+  "deleted_source_paths": [],
+  "private_or_generated_variants_retained_only_locally": 0
+}
