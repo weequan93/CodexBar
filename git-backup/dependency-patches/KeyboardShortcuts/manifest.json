@@ -1,0 +1,8 @@
+{
+  "dependency_base_commit": "ac12762853126cf2e7ad63a6a58e1c9f58c6a0ee",
+  "source_path": "Sources/KeyboardShortcuts/Utilities.swift",
+  "source_sha256": "ce914b1aa02c34996848bb96feae78959b7b0a17b0b54a1d04b5c6c88934fbd9",
+  "source_git_blob": "f424809523205d0b0d32482fc1b28b76609f122d",
+  "change_summary": "Bundle资源查找改为安全候选路径，避免Bundle.module缺少资源时触发fatal trap；纯Swift源码修改，无凭据或个人数据。",
+  "note": "Original generated checkout is preserved unchanged. This is an archival source patch, not a deployment or upstream library change."
+}
